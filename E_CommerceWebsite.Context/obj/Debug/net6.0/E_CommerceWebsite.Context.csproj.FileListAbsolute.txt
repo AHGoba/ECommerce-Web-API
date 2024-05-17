@@ -1,0 +1,17 @@
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E_CommerceWebsite.Context.deps.json
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E_CommerceWebsite.Context.runtimeconfig.json
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E_CommerceWebsite.Context.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E_CommerceWebsite.Context.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\bin\Debug\net6.0\E-CommerceWebsite.Models.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.csproj.AssemblyReference.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.AssemblyInfoInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.AssemblyInfo.cs
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.csproj.CoreCompileInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.csproj.CopyComplete
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\refint\E_CommerceWebsite.Context.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\E_CommerceWebsite.Context.genruntimeconfig.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.Context\obj\Debug\net6.0\ref\E_CommerceWebsite.Context.dll

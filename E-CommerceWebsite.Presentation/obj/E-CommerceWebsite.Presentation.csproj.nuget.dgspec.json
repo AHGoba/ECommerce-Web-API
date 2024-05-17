@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Presentation\\E-CommerceWebsite.Presentation.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj",
+        "projectName": "E-CommerceWebsite.Models",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Presentation\\E-CommerceWebsite.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Presentation\\E-CommerceWebsite.Presentation.csproj",
+        "projectName": "E-CommerceWebsite.Presentation",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Presentation\\E-CommerceWebsite.Presentation.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj"
+              },
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj"
+              },
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\E_CommerceWebsite.Service.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\E_CommerceWebsite.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj",
+        "projectName": "E_CommerceWebsite.Context",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.25, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\E_CommerceWebsite.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\E_CommerceWebsite.DTOs.csproj",
+        "projectName": "E_CommerceWebsite.DTOs",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\E_CommerceWebsite.DTOs.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E-CommerceWebsite.Models\\E-CommerceWebsite.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj",
+        "projectName": "E_CommerceWebsite.Rapository",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Context\\E_CommerceWebsite.Context.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\E_CommerceWebsite.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\E_CommerceWebsite.Service.csproj",
+        "projectName": "E_CommerceWebsite.Service",
+        "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\E_CommerceWebsite.Service.csproj",
+        "packagesPath": "C:\\Users\\A-H\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\A-H\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\E_CommerceWebsite.DTOs.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.DTOs\\E_CommerceWebsite.DTOs.csproj"
+              },
+              "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj": {
+                "projectPath": "D:\\ITI\\Asp.net\\Web API\\E-CommerceWebsiteProject\\E-CommerceWebsite\\E_CommerceWebsite.Rapository\\E_CommerceWebsite.Rapository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\bin\Debug\net6.0\E-CommerceWebsite.Models.deps.json
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\bin\Debug\net6.0\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\bin\Debug\net6.0\E-CommerceWebsite.Models.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.AssemblyInfoInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.AssemblyInfo.cs
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.csproj.CoreCompileInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\refint\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\ref\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E-CommerceWebsite.Models\obj\Debug\net6.0\E-CommerceWebsite.Models.csproj.AssemblyReference.cache

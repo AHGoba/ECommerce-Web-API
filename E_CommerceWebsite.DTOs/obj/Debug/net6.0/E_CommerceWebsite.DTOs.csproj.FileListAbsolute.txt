@@ -1,0 +1,15 @@
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\bin\Debug\net6.0\E_CommerceWebsite.DTOs.deps.json
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\bin\Debug\net6.0\E_CommerceWebsite.DTOs.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\bin\Debug\net6.0\E_CommerceWebsite.DTOs.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.AssemblyInfoInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.AssemblyInfo.cs
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.csproj.CoreCompileInputs.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\refint\E_CommerceWebsite.DTOs.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\ref\E_CommerceWebsite.DTOs.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\bin\Debug\net6.0\E-CommerceWebsite.Models.dll
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\bin\Debug\net6.0\E-CommerceWebsite.Models.pdb
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.csproj.AssemblyReference.cache
+D:\ITI\Asp.net\Web API\E-CommerceWebsiteProject\E-CommerceWebsite\E_CommerceWebsite.DTOs\obj\Debug\net6.0\E_CommerceWebsite.DTOs.csproj.CopyComplete
